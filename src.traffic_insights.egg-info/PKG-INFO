@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: src.traffic-insights
+Version: 0.1
+Summary: A Python package for analyzing Traffic Data
+Home-page: https://github.com/yourusername/your_package_repo
+Author: Harsha
+Author-email: your.email@example.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
